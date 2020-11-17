@@ -603,5 +603,8 @@
     .event-img img{
         width:100%;
     }
+    .event-content-left, .event-content-right{
+        width: 90%;
+    }
     
 }
